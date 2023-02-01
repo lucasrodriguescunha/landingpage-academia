@@ -1,2 +1,2 @@
 # landingpage-academia
- Projeto LandingPage Academia - HTML5/CSS3
+ Mini-projeto Landing Page Academia realizado em HTML5 e CSS3
