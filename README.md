@@ -3,5 +3,5 @@
 
 https://lucasrodriguescunha.github.io/landingpage-academia/
 
-imagens\gif6.gif
+https://github.com/CrislaineLuana/landingPageAcademiaHtmlCss/raw/main/src/gif6.gif
 
